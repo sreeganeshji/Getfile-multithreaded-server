@@ -2,6 +2,8 @@
 
 Multithreaded [Getfile](https://github.com/sreeganeshji/GetFile-protocol) system.
 
+<image src="https://raw.githubusercontent.com/sreeganeshji/socket-echo-client-server/master/Illustrations/mtgf.png" height=150>
+
 this project provides multithread server client implementation of the get file protocol library. 
  
 # Tradeoffs considered
