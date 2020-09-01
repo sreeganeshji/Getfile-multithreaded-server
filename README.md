@@ -16,5 +16,5 @@ Once the server accepts the clients request, it parses the message and checks fo
 The library was tested on how it handles multiple requests in parallel, different sized files, and requests with different status values. 
 # References
 The architecture for the implementation was inspired by the high level diagram listed on the references in the GitHub page. 
-To find the length fo the file, the function fstat was used which was referred from https:// linux.die.net/man/2/fstat 
-The function used to read the file using the file descriptor, pread was referred from [here](http:// man7.org/linux/man-pages/man2/pread.2.html) 
+To find the length fo the file, the function fstat was used which was referred from https://linux.die.net/man/2/fstat 
+The function used to read the file using the file descriptor, pread was referred from http://man7.org/linux/man-pages/man2/pread.2.html
